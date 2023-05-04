@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da8c4e39-a8de-4670-91ce-6a380cbedd04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/.graphqlrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/components/Layout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/components/ProductCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/components/ProductGrid.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/components/ProductOptions.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/entry.client.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/entry.server.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/root.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/routes/_index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/routes/collections.$handle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/routes/products.$handle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/styles/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/styles/tailwind-build.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/app/styles/tailwind.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/public/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/remix.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/remix.env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hydrogen-storefront/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P8mLvyNSuSnAQ0ouvCBl66sPj0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/adiletberdibekov/Documents/Developer/frontend/hydrogen/SPRMockups/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8c4e39-a8de-4670-91ce-6a380cbedd04" name="Changes" comment="" />
+      <created>1682847030484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682847030484</updated>
+      <workItem from="1682847031683" duration="1637000" />
+      <workItem from="1683174700621" duration="205000" />
+      <workItem from="1683174928425" duration="38000" />
+      <workItem from="1683174975360" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
